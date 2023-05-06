@@ -14,11 +14,11 @@
 
 - 🧑‍💻 Software Tools and IDE: **Eclipse, Intellij IDEA, MySQL Workbench, SQL Server Management Studio, Oracle SQL Developer, XAMPP, VMWare.**
 
-- 🧑‍💻 Scripting Languages: Shell Script, Python
+- 🧑‍💻 Scripting Language: **Shell Script**
 
 - 🧑‍💻 Version Control tools: **Git, GitHub**
 
-- ⚡ Agile Methodology: Certified ScrumMaster® (CSM®): [https://bcert.me/suuybybdf](https://bcert.me/suuybybdf)
+- ⚡ **Certified ScrumMaster® (CSM®)**: [https://bcert.me/suuybybdf](https://bcert.me/suuybybdf)
 
 - 🔥 Interested in **Cloud deVops.**
 
