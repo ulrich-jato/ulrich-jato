@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jato Ulrich Guiffo Kengne</h1>
 
-<h3 align="center">🎯 I'm probably the most passionate & enthusiastic Software Developer  you will ever get to work with.</h3>
+<h3 align="center">🎯 I'm probably the most passionate & enthusiastic Software Developer and DevOps Engineer you will ever get to work with.</h3>
 
 - 🌱 I’m Bilingual **French & English**
 
-- 🧑‍💻 Programming languages: **Java, JavaScript(ES6/.../ES12), HTML5, CSS3, SASS, PHP C, C++, Embedded C, Python**
+- 🧑‍💻 Programming languages: **Java, JavaScript(ES6/.../ES12), HTML5, CSS3, SASS, PHP C, C++, Embedded C, Python, COBOL**
 
-- 🧑‍💻 Frameworks, Libraries, and Tools: **React JS, Spring Boot, Hibernate, Tomcat, NPM**
+- 🧑‍💻 Frameworks, Libraries, and Tools: **Spring Boot, React JS, Node.JS, Express, Hibernate+JPA, MVC, JUnit, Maven, NPM, Apache Tomcat, Postman**
+  
+- 🧑‍💻 Cloud and DevOps: **AWS, Azure, Jenkins, SonarQube, Artifactory, Docker, Terraform, Kubernetes**
 
-- 📅 Databases: **MySQL, Oracle, PostgreSQL, SQL Server, MS Access**
+- 📅 Databases: **MySQL, Oracle, PostgreSQL, SQL Server, MongoDB**
 
 - 🧑‍💻 Operating Systems: **Windows 7/8/10/11, Linux Ubuntu**
 
