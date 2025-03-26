@@ -6,7 +6,7 @@
 
 - 🧑‍💻 Programming languages: **Java, JavaScript(ES6/.../ES12), HTML5, CSS3, SASS, PHP C, C++, Embedded C, Python, COBOL**
 
-- 🧑‍💻 Frameworks, Libraries, and Tools: **Spring Boot, React JS, Node.JS, Express, Hibernate+JPA, MVC, JUnit, Maven, NPM, Apache Tomcat, Postman**
+- 🧑‍💻 Frameworks, Libraries, and Tools: **Spring Boot, React JS, React Native, Node.JS, Express, FastAPI, Hibernate+JPA, MVC, JUnit, Maven, NPM, Apache Tomcat, Postman**
   
 - 🧑‍💻 Cloud and DevOps: **AWS, Azure, Jenkins, SonarQube, Artifactory, Docker, Terraform, Kubernetes**
 
